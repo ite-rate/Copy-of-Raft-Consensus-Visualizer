@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Raft Consensus Visualizer",
+  "description": "An interactive visualization of the Raft distributed consensus algorithm, demonstrating Leader Election, Log Replication, and Majority Consensus.",
+  "requestFramePermissions": []
+}
